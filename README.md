@@ -8,3 +8,5 @@ I used:
 3) The NASA API (<https://api.nasa.gov/>)
 4) The net/http class (<https://ruby-doc.org/stdlib-2.7.2/libdoc/net/http/rdoc/Net/HTTP.html>)
 5) The JSON module (<https://ruby-doc.org/stdlib-2.7.2/libdoc/json/rdoc/JSON.html>)
+
+If your .gitignore file does not seem to work properly and you see the .env file on Github, follow the instuctions here: https://egghead.io/lessons/git-git-ignore-a-file-that-has-already-been-committed-and-pushed
